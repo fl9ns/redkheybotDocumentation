@@ -17,15 +17,15 @@
 
 ## Commandes réservées a certaines utilisatrices
 
-| Commande           | Alias                            | Message                                                                                                                             |
-| ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| !goto @utilisateur |                                  | met un timeout à utilisateur de 15 secondes                                                                                         |
-| !groto @utilisateur |                                 | met un gros timeout à utilisateur de 1 heure                                                                                        |
+| Commande            | Message                                                                                                                             |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| !goto @utilisateur  | met un timeout à utilisateur de 15 secondes                                                                                         |
+| !groto @utilisateur | met un gros timeout à utilisateur de 1 heure                                                                                        |
 
 
 
 ## Commandes réservée aux modérateurs et vips
 
-| Commande           | Alias                            | Message                                                                                                                             |
-| ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| !so @utilisateur   |                                  | fait un shoutout si possible et une annonce avec le lien de la chaine                                                               |
+| Commande           | Message                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| !so @utilisateur   | fait un shoutout si possible et une annonce avec le lien de la chaine                                                               |
