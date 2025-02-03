@@ -4,7 +4,7 @@
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | !girl              | Certaines femmes de ce tchat ont le pouvoir de TO les autres avec la commande « !goto @utilisateur ». Mais aussi un gros TO avec la comande « !groto @utilisateur » ! |
 | !rtt               | wsh faut prendre des RTT pour regarder un docu en faite ici ?                                                                       |
-| !to                | s'auto timeout 1 seconde (même pour les modos)                                                                                      |
+| !to                | s'auto timeout 5 secondes (même pour les modos)                                                                                     |
 
 
 
